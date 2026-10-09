@@ -1,6 +1,10 @@
 # pep-project-screenshot
 <img width="1102" height="700" alt="Screenshot 2026-10-07 115158" src="https://github.com/user-attachments/assets/4fc067b3-d14a-43f6-bc92-e51888a95665" />
+<img width="1920" height="1080" alt="Screenshot (1541)" src="https://github.com/user-attachments/assets/041bbf52-8b2e-4c51-b4b5-6c114c79f053" />
+
 <img width="1535" height="862" alt="Screenshot 2026-10-08 025732" src="https://github.com/user-attachments/assets/63d49b7e-cb44-4477-82e5-9b1015fbaf4b" />
+<img width="1920" height="1080" alt="Screenshot (1579)" src="https://github.com/user-attachments/assets/f284975d-f0fb-45e4-b807-6fc583bc0906" />
+
 
 
 <img width="1920" height="1080" alt="Screenshot (1543)" src="https://github.com/user-attachments/assets/4353d49f-c4ad-4b42-a7b3-002aedea4c27" />
